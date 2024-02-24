@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning Ai & ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Gowthamkumar9705@gmail.com
 
 <!---
 Gowthamkumar9705/Gowthamkumar9705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
